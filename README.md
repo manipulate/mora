@@ -3,6 +3,8 @@ A Club Penguin server emulator written in Node.js
 
 Mora is very incomplete and is currently a work in progress.
 
+The default account's username is "test", password is "password".
+
 TODO:
 - write a to do list...
 
