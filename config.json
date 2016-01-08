@@ -1,0 +1,21 @@
+{
+	"Database": {
+		"Host": "127.0.0.1",
+		"User": "root",
+		"Password": "",
+		"Database": "mora"
+	},
+	"Servers": {
+		"1": {
+			"Type": "Login",
+			"Port": 6112
+		},
+		"101": {
+			"Type": "Game",
+			"Name": "Mora",
+			"Host": "127.0.0.1",
+			"Port": 9875
+		}
+	},
+	"Plugins": ["commands", "bot"]
+}

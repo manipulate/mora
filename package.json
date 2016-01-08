@@ -1,0 +1,9 @@
+{
+  "name": "Mora",
+  "version": "0.1.0",
+  "description": "A Club Penguin server emulator",
+  "dependencies": {
+    "mysql": "^2.9.0",
+    "xml2js": "^0.4.15"
+  }
+}
