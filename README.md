@@ -1,6 +1,6 @@
 # Mora
 
-### This project has been discontinued & has't been maintained in over 2 years. Feel free to do what you want with it.
+### This project has been discontinued & hasn't been maintained in over 2 years. Feel free to do what you want with it.
 
 A Club Penguin server emulator written in Node.js
 
