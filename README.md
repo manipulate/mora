@@ -5,9 +5,9 @@ Mora is very incomplete and is currently a work in progress.
 
 The default account's username is "test", password is "password".
 
-TODO:
-- write a todo list...
-
 # Dependencies
 - <a href="https://github.com/felixge/node-mysql">MySQL</a> - Node MySQL driver
 - <a href="https://github.com/Leonidas-from-XIV/node-xml2js">xml2js</a> - XML to JavaScript object converter
+
+
+### This project has been discontinued & has't been maintained in over 2 years. Feel free to do what you want with it.
